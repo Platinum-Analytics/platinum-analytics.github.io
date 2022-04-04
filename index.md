@@ -1,5 +1,0 @@
----
-theme: jekyll-theme-cayman
----
-
-Hello World
